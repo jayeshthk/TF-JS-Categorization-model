@@ -1,4 +1,4 @@
-# TensorFlow.js Model for Node.js
+# TensorFlow.js Model for Node.js:
 
 This project utilizes a TensorFlow.js model for making predictions in a Node.js/JS environment. Below is an overview of the process involved in training and converting the model.
 
