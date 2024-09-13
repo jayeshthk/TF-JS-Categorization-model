@@ -95,16 +95,20 @@ predictProductCategory("Sony Camera").then((category) => {
 - [TensorFlow.js Documentation](https://www.tensorflow.org/js)
 - [TensorFlow.js Converter Guide](https://www.tensorflow.org/js/guide/conversion)
 
-## files ref:
+## Files Reference:
 
-- ![tf_categorization.ipynb](tf_categorization.ipynb)- train model using colab (T4 GPU)
-- ![product_categorization_model.h5](product_categorization_model.h5)- actual python model
-- ![tensorflow.js](tensorflow.js) - loading convered model in JS
-- ![pricerunner_aggregate.csv](pricerunner_aggregate.csv) - data file
-- ![int_to_product_map_dict.json](int_to_product_map_dict.json) - output mapping file.
+- [tf_categorization.ipynb](tf_categorization.ipynb) - Notebook for training the model using Colab (T4 GPU)
+- [product_categorization_model.h5](product_categorization_model.h5) - Saved Python model
+- [tensorflow.js](tensorflow.js) - JavaScript file for loading the converted model
+- [pricerunner_aggregate.csv](pricerunner_aggregate.csv) - Data file
+- [int_to_product_map_dict.json](int_to_product_map_dict.json) - Output mapping file
 
-For further details, please refer to the TensorFlow.js documentation and guides related to model conversion and deployment.
+### Changes Made:
+
+- Updated the list to use Markdown links correctly, ensuring they display properly.
+- Adjusted descriptions for clarity and consistency.
+  For further details, please refer to the TensorFlow.js documentation and guides related to model conversion and deployment.
 
 ## LICENSE
 
-MIT-![LICENSE]()
+MIT-[LICENSE](LICENSE)
