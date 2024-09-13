@@ -103,12 +103,6 @@ predictProductCategory("Sony Camera").then((category) => {
 - [pricerunner_aggregate.csv](pricerunner_aggregate.csv) - Data file
 - [int_to_product_map_dict.json](int_to_product_map_dict.json) - Output mapping file
 
-### Changes Made:
-
-- Updated the list to use Markdown links correctly, ensuring they display properly.
-- Adjusted descriptions for clarity and consistency.
-  For further details, please refer to the TensorFlow.js documentation and guides related to model conversion and deployment.
-
 ## LICENSE
 
 MIT-[LICENSE](LICENSE)
