@@ -97,11 +97,11 @@ predictProductCategory("Sony Camera").then((category) => {
 
 ## files ref:
 
-- ![tf_categorization.ipynb]()- train model using colab (T4 GPU)
-- ![product_categorization_model.h5]()- actual python model
-- ![tensorflow.js]() - loading convered model in JS
-- ![pricerunner_aggregate.csv]() - data file
-- ![int_to_product_map_dict.json]() - output mapping file.
+- ![tf_categorization.ipynb](tf_categorization.ipynb)- train model using colab (T4 GPU)
+- ![product_categorization_model.h5](product_categorization_model.h5)- actual python model
+- ![tensorflow.js](tensorflow.js) - loading convered model in JS
+- ![pricerunner_aggregate.csv](pricerunner_aggregate.csv) - data file
+- ![int_to_product_map_dict.json](int_to_product_map_dict.json) - output mapping file.
 
 For further details, please refer to the TensorFlow.js documentation and guides related to model conversion and deployment.
 
